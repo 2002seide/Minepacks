@@ -56,25 +56,25 @@ permissions:
       backpack.migrate: true
   backpack.use:
     description: Allows a player to open the backpack.
-    default: false
+    default: true
   backpack.size.1:
     description: Mini size for a backpack, if the player has backpack permission he will also have at least a backpack with the size 1.
-    default: false
+    default: true
   backpack.size.2:
     description: 2*9 backpack
-    default: false
+    default: true
   backpack.size.3:
     description: 3*9 backpack
-    default: false
+    default: true
   backpack.size.4:
     description: 4*9 backpack
-    default: false
+    default: true
   backpack.size.5:
     description: 5*9 backpack
-    default: false
+    default: true
   backpack.size.6:
     description: 6*9 backpack
-    default: false
+    default: true
   backpack.sort:
     description: Allows the player to sort their own backpack.
     default: false
